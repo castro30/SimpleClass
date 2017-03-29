@@ -1,0 +1,11 @@
+C:\Temp\SimpleClassDemo2\SimpleClassDemo2\bin\Debug\SimpleClassDemo2.exe.config
+C:\Temp\SimpleClassDemo2\SimpleClassDemo2\bin\Debug\SimpleClassDemo2.exe
+C:\Temp\SimpleClassDemo2\SimpleClassDemo2\bin\Debug\SimpleClassDemo2.pdb
+C:\Temp\SimpleClassDemo2\SimpleClassDemo2\obj\Debug\SimpleClassDemo2.exe
+C:\Temp\SimpleClassDemo2\SimpleClassDemo2\obj\Debug\SimpleClassDemo2.pdb
+C:\Temp\SimpleClass\SimpleClassDemo2\SimpleClassDemo2\bin\Debug\SimpleClassDemo2.exe.config
+C:\Temp\SimpleClass\SimpleClassDemo2\SimpleClassDemo2\bin\Debug\SimpleClassDemo2.exe
+C:\Temp\SimpleClass\SimpleClassDemo2\SimpleClassDemo2\bin\Debug\SimpleClassDemo2.pdb
+C:\Temp\SimpleClass\SimpleClassDemo2\SimpleClassDemo2\obj\Debug\SimpleClassDemo2.exe
+C:\Temp\SimpleClass\SimpleClassDemo2\SimpleClassDemo2\obj\Debug\SimpleClassDemo2.pdb
+C:\Temp\SimpleClass\SimpleClassDemo2\SimpleClassDemo2\obj\Debug\SimpleClassDemo2.csprojResolveAssemblyReference.cache

@@ -4,3 +4,9 @@ C:\Temp\SimpleClassDemo\SimpleClassDemo\bin\Debug\SimpleClassDemo.exe
 C:\Temp\SimpleClassDemo\SimpleClassDemo\bin\Debug\SimpleClassDemo.pdb
 C:\Temp\SimpleClassDemo\SimpleClassDemo\obj\Debug\SimpleClassDemo.exe
 C:\Temp\SimpleClassDemo\SimpleClassDemo\obj\Debug\SimpleClassDemo.pdb
+C:\Temp\SimpleClass\SimpleClassDemo\bin\Debug\SimpleClassDemo.exe.config
+C:\Temp\SimpleClass\SimpleClassDemo\bin\Debug\SimpleClassDemo.exe
+C:\Temp\SimpleClass\SimpleClassDemo\bin\Debug\SimpleClassDemo.pdb
+C:\Temp\SimpleClass\SimpleClassDemo\obj\Debug\SimpleClassDemo.csprojResolveAssemblyReference.cache
+C:\Temp\SimpleClass\SimpleClassDemo\obj\Debug\SimpleClassDemo.exe
+C:\Temp\SimpleClass\SimpleClassDemo\obj\Debug\SimpleClassDemo.pdb
