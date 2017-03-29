@@ -19,7 +19,16 @@ namespace SimpleClassDemo
 
     }
 
-    class BuildingDemo
+    class Calculator
+        {
+            public int Add(int num1, int num2)
+            {
+                return num1 + num2;
+            }
+
+        }
+
+    class CalculatorDemo
     {
         static void Main(string[] args)
         {
@@ -47,6 +56,10 @@ namespace SimpleClassDemo
             areaPerPerson = house.AreaPerPerson();
             areaPerPersonOffice = office.AreaPerPerson();
 
+            Calculator objCalc = new Calculator();
+            Console.WriteLine("2+3 = {0}", objCalc.Add(2, 3));
+
+            Console.ReadKey();
 
             
 
